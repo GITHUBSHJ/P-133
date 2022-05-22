@@ -1,0 +1,47 @@
+body
+{
+	background-image: linear-gradient(to right top,rgb(0, 255, 191) , rgb(72, 255, 240), rgb(0, 255, 34), rgb(255, 174, 0), rgb(255, 170, 170));
+}
+.btn
+{
+	font-family: 'Macondo', cursive;
+	font-weight: bold;
+	font-size: 5vmin;
+}
+h1
+{
+	font-weight: bold;
+	font-family: 'Permanent Marker', cursive;
+	margin-top: 5mm;
+	font-size: 20px;
+}
+.link {
+    font-size: 20px;
+    background: white;
+    border-radius: 20px;
+    width: 300px;
+    margin-top: 15px;
+}
+
+.link:hover {
+    font-size: 30px;
+    text-decoration: underline;
+}
+h3
+{
+	color: antiquewhite;
+	width: 60%
+}
+h2
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+#hii
+{
+	float: right;
+}
+#object
+{
+	font-size: 13px;
+}
